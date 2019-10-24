@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 export class EinsteinQuoteComponent extends Component {
 	render() {
 		return (
